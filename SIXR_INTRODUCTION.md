@@ -7,3 +7,9 @@ To create the ultimate global hub for cricket fans and Web3 explorers, uniting t
 - Bring cricket enthusiasts closer through digital innovation.  
 - Build a transparent and fair ecosystem using blockchain.  
 - Empower the community with opportunities to grow, engage, and lead.  
+### Why SIXR?
+- 🏏 **Cricket Thrill** – Enjoy the spirit of the game.  
+- 🔗 **Blockchain Transparency** – Trustless and secure interactions.  
+- 🌍 **Community Power** – Growth fueled by active members.  
+
+SIXR is not just a project, it’s a movement combining sports, tech, and community.
