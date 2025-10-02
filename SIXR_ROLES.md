@@ -1,4 +1,4 @@
-# SIXR Run Roles & Progression 🎯
+u# SIXR Run Roles & Progression 🎯
 
 The **Run Roles** gamify the SIXR whitelist journey. The more you engage, the closer you get to earning a SIXRLIST Whitelist Spot.
 ## Run Role Progression
@@ -13,3 +13,15 @@ All members above **Level 5 in Mee6** ranking will automatically receive the **R
 - They show your level of contribution.  
 - They directly connect you to whitelist opportunities.  
 - They gamify your journey and make community activity fun.
+🏏 Diamond Batsman Role (Exclusive Recognition)
+
+The Diamond Batsman is one of the most prestigious roles within the SIXR ecosystem. This recognition is not given to everyone — it is reserved for the select few who truly stand out in terms of contribution, dedication, and value creation.
+
+What it Represents:
+
+🔹 Priority – Access to exclusive perks within the SIXR ecosystem
+
+🔹 Status – An elite mark of respect inside the community
+
+🔹 Legacy – A title carried only by a handful of members who prove they belong
+👉 Note: This role represents status, recognition, and influence across the entire ecosystem. Only a very limited number of members will ever achieve it.
