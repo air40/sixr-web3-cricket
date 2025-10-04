@@ -11,3 +11,9 @@ This file contains all major updates and future plans for SIXR.
 - Expand Discord activities with more events and giveaways.  
 - Launch collaborations with creators & sports communities.  
 - Strengthen whitelist opportunities through gamified roles.  
+### Long-Term Vision
+- Integrate blockchain-based rewards.  
+- Build the largest Web3 + Cricket digital hub.  
+- Launch partnerships with global cricket and Web3 brands.  
+
+SIXR’s journey is just beginning. Stay tuned for future milestones.
